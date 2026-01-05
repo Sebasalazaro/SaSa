@@ -177,18 +177,6 @@ All images are stored in AWS S3 with presigned URLs for secure access.
 
 ---
 
-## 📸 Screenshots
-
-*[Add screenshots of your application here]*
-
-- Dashboard view
-- Map interface
-- Product listing
-- Surprise box creation
-- Mobile responsive design
-
----
-
 ## 🌟 Future Enhancements
 
 - [ ] Payment gateway integration (Stripe/PayPal)
@@ -213,28 +201,20 @@ This is a portfolio project, but suggestions and feedback are welcome! Feel free
 
 ---
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
-
 ## 👨‍💻 Author
 
-**[Your Name]**  
-Full-Stack Developer passionate about sustainable technology and social impact
+**Sebastian Salazar**  
+Full-Stack Developer passionate about building apps that helps communities and people.
 
-- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- 📧 Email: your.email@example.com
-- 🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com)
+- 💼 LinkedIn: (www.linkedin.com/in/sebastian-salazar-osorio)
+- 📧 Email: sebasalazaro@gmail.com
 
 ---
 
 ## 🙏 Acknowledgments
 
 - Inspired by [TooGoodToGo](https://toogoodtogo.com/)
-- Built as part of academic coursework at EAFIT University
+- Built as part of academic coursework at EAFIT University with 
 - Special thanks to all contributors and supporters of the project
 
 ---
