@@ -209,6 +209,12 @@ Full-Stack Developer passionate about building apps that helps communities and p
 - 💼 LinkedIn: (www.linkedin.com/in/sebastian-salazar-osorio)
 - 📧 Email: sebasalazaro@gmail.com
 
+**Valentina Morales**  
+Full-Stack Developer passionate about building apps that helps communities and people.
+
+- 💼 LinkedIn: (www.linkedin.com/in/sebastian-salazar-osorio)
+- 📧 Email: valentinamoralesvillada13@gmail.com
+
 ---
 
 ## 🙏 Acknowledgments
